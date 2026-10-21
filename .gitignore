@@ -1,0 +1,4 @@
+.pio/
+data/
+src/secrets.h
+*.collisions.txt
